@@ -3,6 +3,7 @@
 | [tesser.core](http://aphyr.github.io/tesser/tesser.core.html) | [tesser.core](https://clojars.org/tesser.core) | The core library and essential folds |
 | [tesser.math](http://aphyr.github.io/tesser/tesser.math.html) | [tesser.math](https://clojars.org/tesser.math) | Statistical folds: means, correlations, covariance matrices, quantiles, etc. |
 | [tesser.hadoop](http://aphyr.github.io/tesser/tesser.hadoop.html) | [tesser.hadoop](https://clojars.org/tesser.hadoop) | Run folds on Hadoop via Parkour |
+| [tesser.spark](http://aphyr.github.io/tesser/tesser.spark.html) | [tesser.spark](https://clojars.org/tesser.spark | Run folds on Spark via Flambo |
 
 # Tesser
 
