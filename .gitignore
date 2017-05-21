@@ -2,11 +2,13 @@
 */classes
 */checkouts
 */doc
+*/.idea
 pom.xml
 pom.xml.asc
 *.jar
 *.class
 *.hprof
+*.iml
 .*.swp
 .lein-*
 .nrepl-port
